@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 """
+Davina Doran 
+CWID:888017670
+
 Created on Wed May  5 18:19:38 2021
 
 @author: duhvi
+
+***UNFINISHED***
 """
 
 import sys
